@@ -1,0 +1,2 @@
+# PoruchikovaEA
+Изучение питона
