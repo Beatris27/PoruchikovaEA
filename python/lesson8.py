@@ -45,6 +45,7 @@ greet("Анна")
 def order_food(dish, count=1):
     print(f"Заказано: {count} порций {dish}")
 
+
 order_food("Sushi", 4)
 
 # Возвращение данных из функций
